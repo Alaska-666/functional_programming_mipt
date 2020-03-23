@@ -1,0 +1,2 @@
+# functional_programming_mipt
+functional programming homework assignments
